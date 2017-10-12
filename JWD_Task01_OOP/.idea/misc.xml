@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/jwd-task01-template/pom.xml" />
+=======
+        <option value="$PROJECT_DIR$/JWD_Task01_OOP/jwd-task01-template/pom.xml" />
+>>>>>>> 44fc7bf223d3a260ba9180f8d48d0f798c30df8b
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

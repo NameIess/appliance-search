@@ -91,7 +91,11 @@ public class Main {
 		Criteria<Laptop> criteriaLaptop = new Criteria<>();
 
 		criteriaLaptop.setApplianceType("Laptop");
+<<<<<<< HEAD
 		criteriaLaptop.add(Laptop.BATTERY_CAPACITY, 1);
+=======
+		criteriaLaptop.add(Laptop.BATTERY_CAPACITY, 10.100);
+>>>>>>> 76848fe6c6405f049a4011955e700b640b28c87e
 		criteriaLaptop.add(Laptop.OS, "Windows");
 		criteriaLaptop.add(Laptop.MEMORY_ROM, 4000);
 		criteriaLaptop.add(Laptop.SYSTEM_MEMORY, 1000);
@@ -102,7 +106,11 @@ public class Main {
 		PrintApplianceInfo.print(appliance);
 
 		laptop = (by.tc.task01.entity.Laptop) appliance;
+<<<<<<< HEAD
 		if (appliance.getClass() == by.tc.task01.entity.Laptop.class && laptop.getBatteryCapacity() == 1.00) {
+=======
+		if (appliance.getClass() == by.tc.task01.entity.Laptop.class && laptop.getBatteryCapacity() == 10.100) {
+>>>>>>> 76848fe6c6405f049a4011955e700b640b28c87e
 			System.out.println("Passed!\n");
 		}
 
@@ -335,7 +343,11 @@ public class Main {
 			System.out.println("Passed!\n");
 		}
 
+<<<<<<< HEAD
 		System.out.println("End of the positive test\n\n");
+=======
+		System.out.println("\nEnd of the positive test----------------------------------\n");
+>>>>>>> 76848fe6c6405f049a4011955e700b640b28c87e
 
 	}
 
@@ -389,7 +401,11 @@ public class Main {
 		Criteria<Laptop> criteriaLaptop = new Criteria<>();
 
 		criteriaLaptop.setApplianceType("Laptop");
+<<<<<<< HEAD
 		criteriaLaptop.add(Laptop.BATTERY_CAPACITY, 1);
+=======
+		criteriaLaptop.add(Laptop.BATTERY_CAPACITY, 10.100000);
+>>>>>>> 76848fe6c6405f049a4011955e700b640b28c87e
 		criteriaLaptop.add(Laptop.OS, "WinDoWS");
 		criteriaLaptop.add(Laptop.MEMORY_ROM, 4000);
 
@@ -397,7 +413,11 @@ public class Main {
 		PrintApplianceInfo.print(appliance);
 
 		laptop = (by.tc.task01.entity.Laptop) appliance;
+<<<<<<< HEAD
 		if (appliance.getClass() == by.tc.task01.entity.Laptop.class && laptop.getBatteryCapacity() == 1.0) {
+=======
+		if (appliance.getClass() == by.tc.task01.entity.Laptop.class && laptop.getBatteryCapacity() == 10.100) {
+>>>>>>> 76848fe6c6405f049a4011955e700b640b28c87e
 			System.out.println("Passed!\n");
 		}
 
@@ -554,6 +574,7 @@ public class Main {
 			System.out.println("Passed!\n");
 		}
 
+<<<<<<< HEAD
 		criteriaTabletPC = new Criteria<>();
 		criteriaTabletPC.add(TabletPC.BATTERY_CAPACITY, 2018);
 		criteriaTabletPC.add(TabletPC.DISPLAY_INCHES, 14);
@@ -569,6 +590,10 @@ public class Main {
 
 
 		System.out.println("End of the negative test\n\n");
+=======
+
+		System.out.println("\nEnd of the negative test----------------------------------\n");
+>>>>>>> 76848fe6c6405f049a4011955e700b640b28c87e
 
 	}
 }

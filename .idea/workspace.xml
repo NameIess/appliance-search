@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="c4538d67-ccda-4de3-9e57-fae5897acfe2" name="Default" comment="" />
+=======
+    <list default="true" id="c4538d67-ccda-4de3-9e57-fae5897acfe2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+>>>>>>> 76848fe6c6405f049a4011955e700b640b28c87e
     <ignored path="$PROJECT_DIR$/JWD_Task01_OOP/jwd-task01-template/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,7 +28,11 @@
     <select />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+=======
+    <leaf />
+>>>>>>> 76848fe6c6405f049a4011955e700b640b28c87e
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -60,10 +70,17 @@
         <option value="$PROJECT_DIR$/JWD_Task01_OOP/jwd-task01-template/src/main/java/by/tc/task01/entity/Speakers.java" />
         <option value="$PROJECT_DIR$/JWD_Task01_OOP/jwd-task01-template/src/main/java/by/tc/task01/entity/TabletPC.java" />
         <option value="$PROJECT_DIR$/JWD_Task01_OOP/jwd-task01-template/src/main/java/by/tc/task01/entity/VacuumCleaner.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/JWD_Task01_OOP/jwd-task01-template/src/main/java/by/tc/task01/service/validation/Validator.java" />
         <option value="$PROJECT_DIR$/JWD_Task01_OOP/jwd-task01-template/src/main/resources/appliances_db.txt" />
         <option value="$PROJECT_DIR$/JWD_Task01_OOP/jwd-task01-template/src/main/java/by/tc/task01/main/Main.java" />
         <option value="$PROJECT_DIR$/JWD_Task01_OOP/jwd-task01-template/src/main/java/by/tc/task01/dao/impl/ApplianceDAOImpl.java" />
+=======
+        <option value="$PROJECT_DIR$/JWD_Task01_OOP/jwd-task01-template/src/main/resources/appliances_db.txt" />
+        <option value="$PROJECT_DIR$/JWD_Task01_OOP/jwd-task01-template/src/main/java/by/tc/task01/service/validation/Validator.java" />
+        <option value="$PROJECT_DIR$/JWD_Task01_OOP/jwd-task01-template/src/main/java/by/tc/task01/dao/impl/ApplianceDAOImpl.java" />
+        <option value="$PROJECT_DIR$/JWD_Task01_OOP/jwd-task01-template/src/main/java/by/tc/task01/main/Main.java" />
+>>>>>>> 76848fe6c6405f049a4011955e700b640b28c87e
       </list>
     </option>
   </component>
@@ -135,14 +152,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
+=======
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+>>>>>>> 76848fe6c6405f049a4011955e700b640b28c87e
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
+<<<<<<< HEAD
               <item name="appliance-search-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="appliance-search-master" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -244,10 +268,37 @@
             <path>
               <item name="appliance-search-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="appliance-search-master" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="EPAM_Task01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EPAM_Task01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EPAM_Task01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EPAM_Task01" type="462c0819:PsiDirectoryNode" />
+              <item name="JWD_Task01_OOP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EPAM_Task01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EPAM_Task01" type="462c0819:PsiDirectoryNode" />
+              <item name="JWD_Task01_OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="jwd-task01-template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EPAM_Task01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EPAM_Task01" type="462c0819:PsiDirectoryNode" />
+              <item name="JWD_Task01_OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="jwd-task01-template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EPAM_Task01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EPAM_Task01" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 76848fe6c6405f049a4011955e700b640b28c87e
               <item name="JWD_Task01_OOP" type="462c0819:PsiDirectoryNode" />
               <item name="jwd-task01-template" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="by" type="462c0819:PsiDirectoryNode" />
               <item name="tc" type="462c0819:PsiDirectoryNode" />
@@ -257,11 +308,18 @@
             <path>
               <item name="appliance-search-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="appliance-search-master" type="462c0819:PsiDirectoryNode" />
+=======
+            </path>
+            <path>
+              <item name="EPAM_Task01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EPAM_Task01" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 76848fe6c6405f049a4011955e700b640b28c87e
               <item name="JWD_Task01_OOP" type="462c0819:PsiDirectoryNode" />
               <item name="jwd-task01-template" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="by" type="462c0819:PsiDirectoryNode" />
               <item name="tc" type="462c0819:PsiDirectoryNode" />
               <item name="task01" type="462c0819:PsiDirectoryNode" />
@@ -270,12 +328,19 @@
             <path>
               <item name="appliance-search-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="appliance-search-master" type="462c0819:PsiDirectoryNode" />
+=======
+            </path>
+            <path>
+              <item name="EPAM_Task01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EPAM_Task01" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 76848fe6c6405f049a4011955e700b640b28c87e
               <item name="JWD_Task01_OOP" type="462c0819:PsiDirectoryNode" />
               <item name="jwd-task01-template" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="by" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="tc" type="462c0819:PsiDirectoryNode" />
               <item name="task01" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
@@ -283,6 +348,12 @@
             <path>
               <item name="appliance-search-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="appliance-search-master" type="462c0819:PsiDirectoryNode" />
+=======
+            </path>
+            <path>
+              <item name="EPAM_Task01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EPAM_Task01" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 76848fe6c6405f049a4011955e700b640b28c87e
               <item name="JWD_Task01_OOP" type="462c0819:PsiDirectoryNode" />
               <item name="jwd-task01-template" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
@@ -290,6 +361,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="by" type="462c0819:PsiDirectoryNode" />
               <item name="tc" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="task01" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
               <item name="impl" type="462c0819:PsiDirectoryNode" />
@@ -297,6 +369,12 @@
             <path>
               <item name="appliance-search-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="appliance-search-master" type="462c0819:PsiDirectoryNode" />
+=======
+            </path>
+            <path>
+              <item name="EPAM_Task01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EPAM_Task01" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 76848fe6c6405f049a4011955e700b640b28c87e
               <item name="JWD_Task01_OOP" type="462c0819:PsiDirectoryNode" />
               <item name="jwd-task01-template" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
@@ -305,6 +383,7 @@
               <item name="by" type="462c0819:PsiDirectoryNode" />
               <item name="tc" type="462c0819:PsiDirectoryNode" />
               <item name="task01" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="service" type="462c0819:PsiDirectoryNode" />
               <item name="validation" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -316,6 +395,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+=======
+>>>>>>> 76848fe6c6405f049a4011955e700b640b28c87e
             </path>
           </expand>
           <select />
@@ -506,14 +587,21 @@
       <workItem from="1507752995829" duration="25000" />
       <workItem from="1507753070737" duration="1804000" />
       <workItem from="1507762980507" duration="2001000" />
+<<<<<<< HEAD
       <workItem from="1507807288287" duration="26000" />
       <workItem from="1507807589958" duration="65000" />
       <workItem from="1507838665628" duration="2177000" />
+=======
+>>>>>>> 76848fe6c6405f049a4011955e700b640b28c87e
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="59404000" />
+=======
+    <option name="totallyTimeSpent" value="57136000" />
+>>>>>>> 76848fe6c6405f049a4011955e700b640b28c87e
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
@@ -527,11 +615,19 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.51856947" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959402" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33069083" sideWeight="0.4914163" order="7" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.48143053" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23130342" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295583" sideWeight="0.48143053" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22329059" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> 76848fe6c6405f049a4011955e700b640b28c87e
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959402" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -555,7 +651,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+<<<<<<< HEAD
       <option name="time" value="13" />
+=======
+      <option name="time" value="12" />
+>>>>>>> 76848fe6c6405f049a4011955e700b640b28c87e
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -564,6 +664,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/JWD_Task01_OOP/jwd-task01-template/src/main/java/by/tc/task01/dao/impl/ApplianceDAOImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -722,6 +823,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+=======
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="18">
+            <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JWD_Task01_OOP/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JWD_Task01_OOP/.idea/EPAM_Task01.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> 76848fe6c6405f049a4011955e700b640b28c87e
           <folding />
         </state>
       </provider>
